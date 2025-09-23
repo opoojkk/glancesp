@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedPreferences 查看器</string>
+    <string name="shared_prefs_list_title">SharedPreferences 文件列表</string>
+    <string name="no_files_found">没有找到 SharedPreferences 文件</string>
+    <string name="no_key_value_pairs">没有找到键值对</string>
+    <string name="keys_count">%d 个键</string>
+    <string name="key_copied">键已复制到剪贴板</string>
+    <string name="value_copied">值已复制到剪贴板</string>
+    <string name="type_string">字符串</string>
+    <string name="type_int">整数</string>
+    <string name="type_long">长整数</string>
+    <string name="type_float">浮点数</string>
+    <string name="type_boolean">布尔值</string>
+    <string name="type_stringset">字符串集合</string>
+    <string name="type_unknown">未知</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedPreferences Viewer</string>
+    <string name="shared_prefs_list_title">SharedPreferences Files</string>
+    <string name="no_files_found">No SharedPreferences files found</string>
+    <string name="no_key_value_pairs">No key-value pairs found</string>
+    <string name="keys_count">%d keys</string>
+    <string name="key_copied">Key copied to clipboard</string>
+    <string name="value_copied">Value copied to clipboard</string>
+    <string name="type_string">String</string>
+    <string name="type_int">Int</string>
+    <string name="type_long">Long</string>
+    <string name="type_float">Float</string>
+    <string name="type_boolean">Boolean</string>
+    <string name="type_stringset">StringSet</string>
+    <string name="type_unknown">Unknown</string>
+</resources>
