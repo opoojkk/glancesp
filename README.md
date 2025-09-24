@@ -15,26 +15,14 @@ dependencyResolutionManagement {
 }
 ```
 
-2) 添加依赖（将版本替换为最新 tag，当前为 `0.0.1`）：
+2) 添加依赖（将版本替换为最新 tag，当前为 `0.0.2`）：
 ```kotlin
 dependencies {
-	implementation("com.github.opoojkk:glancesp:0.0.1")
+	debugImplementation("com.github.opoojkk:glancesp:0.0.2")
 }
 ```
 
-- 可选：动态使用最新版本（不建议用于生产）：
-```kotlin
-dependencies {
-	implementation("com.github.opoojkk:glancesp:+")
-}
-```
-
-- 可选：使用最新提交快照（将分支名替换为实际分支，如 `master-SNAPSHOT`）：
-```kotlin
-dependencies {
-	implementation("com.github.opoojkk:glancesp:master-SNAPSHOT")
-}
-```
+3) 打开GlanceSP名称的icon
 
 更多版本信息与使用说明参见 JitPack：[opoojkk/glancesp on JitPack](https://jitpack.io/#opoojkk/glancesp)
 
