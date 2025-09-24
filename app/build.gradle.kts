@@ -39,8 +39,8 @@ android {
 }
 
 dependencies {
-//    implementation(project(":glancesp"))
-    debugImplementation("com.github.opoojkk:glancesp:0.0.1")
+    implementation(project(":glancesp"))
+//    debugImplementation("com.github.opoojkk:glancesp:0.0.1")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
