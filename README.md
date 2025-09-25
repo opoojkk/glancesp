@@ -27,3 +27,13 @@ dependencies {
 更多版本信息与使用说明参见 JitPack：[opoojkk/glancesp on JitPack](https://jitpack.io/#opoojkk/glancesp)
 
 
+### 截图
+
+- **sp文件列表**
+
+![sp文件列表](screenshots/Screenshot_20250925_075732.png)
+
+- **sp key value列表**
+
+![sp key value列表](screenshots/Screenshot_20250925_075932.png)
+
