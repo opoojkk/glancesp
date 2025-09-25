@@ -29,11 +29,6 @@ dependencies {
 
 ### 截图
 
-- **sp文件列表**
-
-![sp文件列表](screenshots/Screenshot_20250925_075732.png)
-
-- **sp key value列表**
-
-![sp key value列表](screenshots/Screenshot_20250925_075932.png)
-
+| sp文件列表 | sp key value列表 |
+| --- | --- |
+| <img src="screenshots/Screenshot_20250925_075732.png" alt="sp文件列表" width="220" /> | <img src="screenshots/Screenshot_20250925_075932.png" alt="sp key value列表" width="220" /> |
